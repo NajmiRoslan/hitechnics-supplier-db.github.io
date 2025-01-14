@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "firebase deploy"
+    "deploy": "hitechnics-supplier-db.github.io -d dist"
   },
   "dependencies": {
     "dotenv": "^16.4.7",
